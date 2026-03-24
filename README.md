@@ -56,6 +56,10 @@ app/
 
 
 
+https://github.com/user-attachments/assets/8beb56dc-46cf-464c-bcfa-cd798b73388e
+
+
+
 
 ## 💡 Concepts pratiqués
 - **DAO Pattern** pour la gestion des données.
